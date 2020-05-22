@@ -1,7 +1,7 @@
 # Git-comands
 El README tiene un gran lista de comandos de git no están todos pero si la mayoría 
 
-
+<br>
 
 Inicia el programa de Git y inicia el repositorio
 
